@@ -1,12 +1,19 @@
-|English Term|توضیح انگلیسی|معادل فارسی|توضیح فارسی|
-|---|---|---|---|
-|Compose|Google’s declarative framework for building Android UI|کامپوز|فریم‌ورک اعلامی گوگل برای ساخت رابط کاربری اندروید|
-|Data-driven|An approach where the UI is rebuilt directly based on application state|داده‌محور|رویکردی که در آن رابط کاربری مستقیماً بر اساس وضعیت داده‌های برنامه ساخته یا بازسازی می‌شود|
-|User Interface (UI)|The part of the app that users interact with (screens, buttons, text, etc.)|رابط کاربری|بخشی از برنامه که کاربر با آن تعامل دارد|
-|Implementation|The process of writing actual code to realize a design or concept|پیاده‌سازی|فرآیند نوشتن کد برای عملی کردن یک طراحی یا مفهوم|
-|Events|External inputs resulting from user interactions (clicks, touches, drags)|رویدادها|ورودی‌هایی که از تعامل کاربر ایجاد می‌شوند|
-|Interaction|Direct communication between user and UI elements|تعامل|ارتباط مستقیم کاربر با اجزای رابط کاربری|
-|Underlying app data|Core data that holds the current state of the app|داده‌های زیربنایی برنامه|داده‌هایی که وضعیت فعلی برنامه را نگه می‌دارند و منبع حقیقت هستند|
-|Logic|Rules and decisions that define app behavior|منطق|قوانینی که تعیین می‌کنند برنامه چگونه رفتار کند|
-|Taps a button|User clicks or presses a button|فشردن دکمه|یک نوع رویداد ورودی کاربر|
-|Moves a slider|User changes the value of a slider|حرکت دادن نوار لغزنده|رویدادی که معمولاً یک مقدار عددی را تغییر می‌دهد|
+| English Word        | Pronunciation              | English Description                           | توضیح فارسی                                        | معنی فارسی               |
+| ------------------- | -------------------------- | --------------------------------------------- | -------------------------------------------------- | ------------------------ |
+| Data-driven         | /ˈdeɪ.tə ˌdrɪv.ən/         | Controlled by data rather than fixed rules    | سیستمی که رفتار آن بر اساس داده تغییر می‌کند       | داده‌محور                |
+| User Interface (UI) | /ˈjuː.zər ˈɪn.tə.feɪs/     | The visual part of an app users interact with | بخشی از برنامه که کاربر می‌بیند و با آن کار می‌کند | رابط کاربری              |
+| Implementation      | /ˌɪm.plɪ.menˈteɪ.ʃən/      | The process of putting a plan into action     | فرآیند پیاده‌سازی یک ایده یا طرح                   | پیاده‌سازی               |
+| Events              | /ɪˈvents/                  | Actions that occur in the system              | اتفاقاتی که در برنامه رخ می‌دهند                   | رویدادها                 |
+| Interaction         | /ˌɪn.təˈræk.ʃən/           | Communication between user and system         | ارتباط بین کاربر و برنامه                          | تعامل                    |
+| Underlying app data | /ˈʌn.də.laɪ.ɪŋ æp ˈdeɪ.tə/ | Core data behind an application               | داده‌های اصلی پشت برنامه                           | داده‌های زیربنایی برنامه |
+| Logic               | /ˈlɒdʒ.ɪk/                 | Rules controlling behavior of software        | قوانینی که رفتار برنامه را تعیین می‌کنند           | منطق                     |
+| Taps a button       | /tæps ə ˈbʌt.ən/           | User touches a button on screen               | کاربر روی دکمه ضربه می‌زند                         | ضربه زدن روی دکمه        |
+| Moves a slider      | /muːvz ə ˈslaɪ.dər/        | User drags a slider control                   | کاربر اسلایدر را جابه‌جا می‌کند                    | حرکت دادن اسلایدر        |
+| Preserved           | /prɪˈzɜːvd/                | Kept in original state                        | بدون تغییر نگه داشته شده                           | حفظ‌شده                  |
+| Retain              | /rɪˈteɪn/                  | To keep or continue to have                   | نگه داشتن چیزی                                     | حفظ کردن                 |
+| Perform             | /pəˈfɔːm/                  | To carry out an action                        | انجام دادن یک کار                                  | اجرا کردن                |
+| Vital               | /ˈvaɪ.təl/                 | Extremely important                           | بسیار مهم                                          | حیاتی                    |
+| Triggered           | /ˈtrɪɡ.əd/                 | Caused to happen                              | باعث وقوع شدن                                      | فعال‌شده                 |
+| Unidirectional      | /ˌjuː.nɪ.dɪˈrek.ʃən.əl/    | Flowing in one direction                      | حرکت در یک جهت                                     | یک‌جهته                  |
+| Ancestor            | /ˈæn.ses.tər/              | A parent element in hierarchy                 | عنصر والد در ساختار                                | والد                     |
+| Ordinarily          | /ˈɔː.dɪ.nər.ɪ.li/          | Usually or normally                           | به طور معمول                                       | معمولاً                  |
